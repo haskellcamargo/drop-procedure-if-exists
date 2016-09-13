@@ -1,1 +1,1 @@
-*.sql linguist-language=php
+*.sql linguist-language=tsql
